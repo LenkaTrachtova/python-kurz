@@ -1,0 +1,6 @@
+print('ahoj, já jsem Lenka.\n Je mi 39 let.')
+print('Lenka' + 'Trachtová')
+print('Lenka' + '' '' + 'Trachtová')
+print("Lenka" + " " + "Trachtová")
+print("I love Survivor")
+print('ZA SNY \n Rozhodla jsem se, že si půjdu za svými sny. \n Půjdu tvrdě a už se nevzdám, musím bojovat, věřit a nepřestávat snít. \n Hodně štěstí')
